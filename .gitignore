@@ -243,3 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+MyProject.Web/App_Data/Logs/Logs.txt
